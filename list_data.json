@@ -3,43 +3,43 @@
 		"Name": "Saul's Restaurant & Delicatessen",
 		"Cuisine": "Jewish",
 		"Location": "Berkeley, California, USA",
-		"Price": "$$"
+		"Price*": "$$"
 	},
 	{
 		"Name": "Birrieria Zaragoza",
 		"Cuisine": "Mexican",
 		"Location": "Chicago, Illinois, USA",
-		"Price": "$$"
+		"Price*": "$$"
 	},
 	{
 		"Name": "Bavette's",
 		"Cuisine": "New American",
 		"Location": "Chicago, Illinois, USA",
-		"Price": "$$$$"
+		"Price*": "$$$$"
 	},
 		{
 		"Name": "Tomukun Noodle Bar",
 		"Cuisine": "Asian Fusion",
 		"Location": "Ann Arbor, Michigan, USA",
-		"Price": "$$"
+		"Price*": "$$"
 	},
 	{
 		"Name": "Hanon",
 		"Cuisine": "Japanese",
 		"Location": "New York, New York, USA",
-		"Price": "$$"
+		"Price*": "$$"
 	},
 	{
 		"Name": "Ichiran",
 		"Cuisine": "Japanese",
 		"Location": "Momochi, Fukuoka, Japan",
-		"Price": "$"
+		"Price*": "$"
 	},
 	{
 		"Name": "Lost Heaven",
 		"Cuisine": "Southwest Chinese",
 		"Location": "Shanghai, China",
-		"Price": "$$$"
+		"Price*": "$$$"
 	}]
 	
 }
