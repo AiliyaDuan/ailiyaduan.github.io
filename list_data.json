@@ -6,6 +6,12 @@
 		"Price*": "$$"
 	},
 	{
+		"Name": "Pollara Pizzeria",
+		"Cuisine": "Italian",
+		"Location": "Berkeley, California, USA",
+		"Price*": "$$"
+	},
+	{
 		"Name": "Birrieria Zaragoza",
 		"Cuisine": "Mexican",
 		"Location": "Chicago, Illinois, USA",
